@@ -9,7 +9,7 @@
 | 개발 엔진 | Unreal Engine 5.4.4 |
 | 플랫폼 | PC |
 | 플레이 방식 | Single Player |
-| 시점 | third Person |
+| 시점 | single Person |
 | 예상 플레이 시간 | 10~15분 |
 
 ### 한 줄 소개
