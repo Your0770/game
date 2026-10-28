@@ -6,7 +6,7 @@
 |---|---|
 | 게임 제목 | **  Fog Maze  ** |
 | 장르 | Escape, Puzzle |
-| 개발 엔진 | Unreal Engine 5.4.4 |
+| 개발 엔진 | Unreal Engine 5.6.1 |
 | 플랫폼 | PC |
 | 플레이 방식 | Single Player |
 | 시점 | single Person |
